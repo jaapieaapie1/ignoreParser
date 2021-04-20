@@ -2,6 +2,12 @@
 ______
 A go module used for parsing ignore files like .gitignore (and using them)
 
+<br><br>
+Install this package:
+`go get github.com/jaapieaapie1/ignoreParser`
+<br><br>
+
+
 ### Example
 
 ```go
