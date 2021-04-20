@@ -24,7 +24,7 @@ func main() {
 	ignore, _ := ignoreParser.ParseIgnoreFile(file)
 
 	if ignore.ShouldIgnore("hello.txt") {
-        println("Don't use hello.txt")
+            println("Don't use hello.txt")
 	}
 }
 ```
